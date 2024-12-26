@@ -1,4 +1,3 @@
-// map for all the positions.
 export const COORDINATES_MAP = {
   0: [6, 13],
   1: [6, 12],
