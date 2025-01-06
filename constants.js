@@ -84,7 +84,7 @@ export const COORDINATES_MAP = {
   602: [10.5, 3.45],
   603: [12.54, 3.45],
 };
-
+// other constants
 export const STEP_LENGTH = 6.66;
 
 export const PLAYERS = ["P1", "P2"];
